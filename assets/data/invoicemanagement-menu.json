@@ -1,0 +1,81 @@
+{
+  "menu": [
+    {
+      "route": "dashboard",
+      "name": "dashboard",
+      "type": "link",
+      "icon": "dashboard"
+    },
+    {
+      "route": "invoice",
+      "name": "invoice",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "inquiry",
+          "name": "invoice inquiry",
+          "type": "link"
+        },
+        {
+          "route": "maintenance",
+          "name": "invoice maintenance",
+          "type": "link"
+        }
+      ],
+      "badge": {
+        "color": "red-500",
+        "value": "2"
+      }
+    },
+    {
+      "route": "payment",
+      "name": "payment",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "inquiry",
+          "name": "payment inquiry",
+          "type": "link"
+        },
+        {
+          "route": "maintenance",
+          "name": "payment maintenance",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "route": "customer",
+      "name": "customer",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "inquiry",
+          "name": "customer inquiry",
+          "type": "link"
+        },
+        {
+          "route": "maintenance",
+          "name": "customer maintenance",
+          "type": "link"
+        }
+      ]
+    },
+     {
+      "route": "reference",
+      "name": "reference",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "paymentmethod",
+          "name": "payment method maintenance",
+          "type": "link"
+        }
+      ]
+    }
+  ]
+}

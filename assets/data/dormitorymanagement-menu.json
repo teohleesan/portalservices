@@ -1,0 +1,110 @@
+{
+  "menu": [
+    {
+      "route": "dashboard",
+      "name": "dashboard",
+      "type": "link",
+      "icon": "dashboard"
+    },
+    {
+      "route": "occupancy",
+      "name": "occupancy",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "inquiry",
+          "name": "occupancy inquiry",
+          "type": "link"
+        },
+        {
+          "route": "maintenance",
+          "name": "occupancy maintenance",
+          "type": "link"
+        },
+        {
+          "route": "calender",
+          "name": "occupancy calender",
+          "type": "link"
+        }
+      ],
+      "badge": {
+        "color": "red-500",
+        "value": "3"
+      }
+    },
+    {
+      "route": "personal",
+      "name": "personal",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "inquiry",
+          "name": "personal inquiry",
+          "type": "link"
+        },
+        {
+          "route": "maintenance",
+          "name": "personal maintenance",
+          "type": "link"
+        },
+        {
+          "route": "personalUpload",
+          "name": "personal upload",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "route": "room",
+      "name": "room",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "inquiry",
+          "name": "room inquiry",
+          "type": "link"
+        },
+        {
+          "route": "maintenance",
+          "name": "room maintenance",
+          "type": "link"
+        }
+      ]
+    },
+     {
+      "route": "reference",
+      "name": "reference",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "categories",
+          "name": "categories maintenance",
+          "type": "link"
+        },
+        {
+          "route": "locations",
+          "name": "locations maintenance",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "route": "tenant",
+      "name": "tenant",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "maintenance",
+          "name": "tenant maintenance",
+          "type": "link"
+        }
+      ]
+    }
+  ]
+}
+

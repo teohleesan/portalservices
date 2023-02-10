@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "route": "dashboard",
+      "name": "dashboard",
+      "type": "link",
+      "icon": "dashboard"
+    },
+    {
+      "route": "currencies",
+      "name": "currencies maintenance",
+      "type": "link",
+      "icon": "settings"
+    },
+    {
+      "route": "countries",
+      "name": "countries maintenance",
+      "type": "link",
+      "icon": "settings"
+    },
+    {
+      "route": "races",
+      "name": "races maintenance",
+      "type": "link",
+      "icon": "settings"
+    },
+    {
+      "route": "nationalities",
+      "name": "nationalities maintenance",
+      "type": "link",
+      "icon": "settings"
+    }
+  ]
+}

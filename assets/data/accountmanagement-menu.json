@@ -1,0 +1,51 @@
+{
+  "menu": [
+    {
+      "route": "dashboard",
+      "name": "dashboard",
+      "type": "link",
+      "icon": "dashboard"
+    },
+    {
+      "route": "user",
+      "name": "user",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "inquiry",
+          "name": "user inquiry",
+          "type": "link"
+        },
+        {
+          "route": "maintenance",
+          "name": "user maintenance",
+          "type": "link"
+        },
+        {
+          "route": "userupload",
+          "name": "user upload",
+          "type": "link"
+        }
+      ],
+       "badge": {
+        "color": "red-500",
+        "value": "3"
+      }
+    },
+    {
+      "route": "role",
+      "name": "role",
+      "type": "sub",
+      "icon": "color_lens",
+      "children": [
+        {
+          "route": "inquiry",
+          "name": "role inquiry",
+          "type": "link"
+        }
+      ]
+    }
+  ]
+}
+

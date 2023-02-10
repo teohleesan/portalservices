@@ -67,7 +67,7 @@
             "shortDisplayName" : "POMS",
             "title" : "Purchases Order",
             "subtitle" : "Management system",
-            "img" : "./assets/images/module/purchaseOrder.png",
+            "img" : ".  /assets/images/module/purchaseOrder.png",
             "routerlink" : "/purchaseordermanagement/purchase-order-dashboard",
             "description" : "purchase order management"
          }

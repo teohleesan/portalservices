@@ -1,6 +1,7 @@
 {
   "avatar": "assets/images/default/avatar.jpg",
   "empty": "assets/images/default/empty.png",
+  "home": "assets/images/default/home_blue.png",
   "branding": "assets/images/default/portal.png",
   "underconstruction" : "assets/images/default/underconstruction.png",
   "excel" : "assets/images/default/excel.png",

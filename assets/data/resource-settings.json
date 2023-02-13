@@ -1,27 +1,28 @@
 {
-  "avatar": "./assets/images/default/avatar.jpg",
-  "empty": "./assets/images/default/empty.png",
-  "branding": "./assets/images/default/portal.png",
-  "underconstruction" : "./assets/images/default/underconstruction.png",
-  "excel" : "./assets/images/default/excel.png",
-  "pdf" : "./assets/images/default/pdf.png",
-  "word" : "./assets/images/default/word.png",
-  "systemnotification" : "./assets/documents/system notification.docx",
-  "publicKey" : "./assets/keys/clientServerPub.asc",
+  "avatar": "assets/images/default/avatar.jpg",
+  "empty": "assets/images/default/empty.png",
+  "branding": "assets/images/default/portal.png",
+  "underconstruction" : "assets/images/default/underconstruction.png",
+  "excel" : "assets/images/default/excel.png",
+  "pdf" : "assets/images/default/pdf.png",
+  "word" : "assets/images/default/word.png",
+  "systemnotification" : "assets/documents/system notification.docx",
+  "publickey" : "assets/keys/clientServerPub.asc",
+  "moduleconfig" : "assets/data/module-config.json",
   "render": [
     {
       "name": "excel",
-      "image": "./assets/images/default/excel.png",
+      "image": "assets/images/default/excel.png",
       "fileExternsion": "xlxs"
     },
     {
       "name": "word",
-      "image": "./assets/images/default/word.png",
+      "image": "assets/images/default/word.png",
       "fileExternsion": "docx"
     },
     {
       "name": "pdf",
-      "image": "./assets/images/default/pdf.png",
+      "image": "assets/images/default/pdf.png",
       "fileExternsion": "pdf"
     }
   ]

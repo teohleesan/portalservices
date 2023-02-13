@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Portal</title>
-  <base href="https://teohleesan.github.io/portalservices">
+  <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Cache-control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
@@ -18,6 +18,6 @@
 <body>
   <app-root></app-root>
   <!-- <noscript>Please enable JavaScript to continue using this application.</noscript> -->
-<script src="runtime.1c8fa17a7ada5ad7.js" type="module"></script><script src="polyfills.f43b49fe8bcf1ada.js" type="module"></script><script src="scripts.eabcf25e747e91bd.js" defer></script><script src="main.f630ac5ab8a8fc47.js" type="module"></script>
+<script src="runtime.3803787e7e3324ae.js" type="module"></script><script src="polyfills.f43b49fe8bcf1ada.js" type="module"></script><script src="scripts.eabcf25e747e91bd.js" defer></script><script src="main.7a7b339b2efced52.js" type="module"></script>
 
 </body></html>

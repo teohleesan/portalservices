@@ -6,7 +6,7 @@
             "shortDisplayName" : "ACMS",
             "title" : "Authentication",
             "subtitle" : "User Permission & Access right",
-            "img" : "./assets/images/module/authentication.png",
+            "img" : "assets/images/module/authentication.png",
             "routerlink" : "/accountmanagement/dashboard",
             "description" : "manage permissions in a role-based access control(RBAC), account setup."
          },
@@ -16,7 +16,7 @@
             "shortDisplayName" : "RFMS",
             "title" : "References Data",
             "subtitle" : "Maintenance",
-            "img" : "./assets/images/module/references.png",
+            "img" : "assets/images/module/references.png",
             "routerlink" : "/referencesmanagement/dashboard",
             "description" : "maintenance reference master data"
          },
@@ -36,7 +36,7 @@
             "shortDisplayName" : "INVC",
             "title" : "Invoicing",
             "subtitle" : "Management system",
-            "img" : "./assets/images/module/bill.png",
+            "img" : "assets/images/module/bill.png",
             "routerlink" : "/invoicemanagement/dashboard",
             "description" : "invoice management"
          },
@@ -47,7 +47,7 @@
             "shortDisplayName" : "INVT",
             "title" : "Inventory",
             "subtitle" : "Management system",
-            "img" : "./assets/images/module/inventory.png",
+            "img" : "assets/images/module/inventory.png",
             "routerlink" : "/inventorymanagement/inventory-dashboard",
             "description" : "inventory mamangent system"
          },
@@ -57,7 +57,7 @@
             "shortDisplayName" : "SOMS",
             "title" : "Sales Order",
             "subtitle" : "Management system",
-            "img" : "./assets/images/module/salesOrder.png",
+            "img" : "assets/images/module/salesOrder.png",
             "routerlink" : "/salesordermanagement/sales-order-dashboard",
             "description" : "sales order management"
          },
@@ -67,7 +67,7 @@
             "shortDisplayName" : "POMS",
             "title" : "Purchases Order",
             "subtitle" : "Management system",
-            "img" : "./assets/images/module/purchaseOrder.png",
+            "img" : "assets/images/module/purchaseOrder.png",
             "routerlink" : "/purchaseordermanagement/purchase-order-dashboard",
             "description" : "purchase order management"
          }
